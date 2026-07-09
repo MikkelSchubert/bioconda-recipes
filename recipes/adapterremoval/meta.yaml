@@ -29,9 +29,6 @@ requirements:
   host:
     - libdeflate >=1.7
     - isa-l >=2.30
-  run:
-    - libdeflate >=1.7
-    - isa-l >=2.30
 
 test:
   commands:
