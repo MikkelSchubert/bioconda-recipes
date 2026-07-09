@@ -23,8 +23,6 @@ requirements:
   host:
     - zlib
     - bzip2
-    - wget
-    - perl
 
 test:
   commands:
